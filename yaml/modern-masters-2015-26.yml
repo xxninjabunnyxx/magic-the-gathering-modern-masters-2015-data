@@ -1,0 +1,119 @@
+---
+object: card
+id: 9a9819bc-5da2-4b0c-b5d4-c99b2914bb6f
+oracle_id: 17e905ca-c0bd-473d-95a7-e180ba5fea43
+multiverse_ids:
+- 397806
+mtgo_id: 57044
+mtgo_foil_id: 57045
+tcgplayer_id: 98654
+cardmarket_id: 282852
+name: Mirror Entity
+lang: en
+released_at: '2015-05-22'
+uri: https://api.scryfall.com/cards/9a9819bc-5da2-4b0c-b5d4-c99b2914bb6f
+scryfall_uri: https://scryfall.com/card/mm2/26/mirror-entity?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/9/a/9a9819bc-5da2-4b0c-b5d4-c99b2914bb6f.jpg?1562265272
+  normal: https://cards.scryfall.io/normal/front/9/a/9a9819bc-5da2-4b0c-b5d4-c99b2914bb6f.jpg?1562265272
+  large: https://cards.scryfall.io/large/front/9/a/9a9819bc-5da2-4b0c-b5d4-c99b2914bb6f.jpg?1562265272
+  png: https://cards.scryfall.io/png/front/9/a/9a9819bc-5da2-4b0c-b5d4-c99b2914bb6f.png?1562265272
+  art_crop: https://cards.scryfall.io/art_crop/front/9/a/9a9819bc-5da2-4b0c-b5d4-c99b2914bb6f.jpg?1562265272
+  border_crop: https://cards.scryfall.io/border_crop/front/9/a/9a9819bc-5da2-4b0c-b5d4-c99b2914bb6f.jpg?1562265272
+mana_cost: "{2}{W}"
+cmc: 3.0
+type_line: Creature — Shapeshifter
+oracle_text: |-
+  Changeling (This card is every creature type.)
+  {X}: Until end of turn, creatures you control have base power and toughness X/X and gain all creature types.
+power: '1'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords:
+- Changeling
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 28cac015-43df-4e88-90d0-95dcdd894834
+set: mm2
+set_name: Modern Masters 2015
+set_type: masters
+set_uri: https://api.scryfall.com/sets/28cac015-43df-4e88-90d0-95dcdd894834
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amm2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mm2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/9a9819bc-5da2-4b0c-b5d4-c99b2914bb6f/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A17e905ca-c0bd-473d-95a7-e180ba5fea43&unique=prints
+collector_number: '26'
+digital: false
+rarity: rare
+flavor_text: Unaware of Lorwyn's diversity, it sees only itself, reflected a thousand
+  times over.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Zoltan Boros & Gabor Szikszai
+artist_ids:
+- 1885e6cb-c827-4896-994e-3d0a027d602f
+- 44c3877f-8771-43dc-9e40-f4c765f59d2e
+illustration_id: 9ea81f29-7de7-4fdf-b4f7-af14f71476da
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 681
+penny_rank: 2601
+prices:
+  usd: '0.92'
+  usd_foil: '8.92'
+  usd_etched: 
+  eur: '0.49'
+  eur_foil: '2.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397806
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mirror+Entity&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mirror+Entity&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mirror+Entity
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/98654?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mirror+Entity&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/57044?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

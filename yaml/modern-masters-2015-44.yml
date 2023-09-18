@@ -1,0 +1,115 @@
+---
+object: card
+id: 6693346f-3891-441f-a628-4dea4dd181b0
+oracle_id: fcbe14c4-1b0d-486f-bb9c-0fed452668cb
+multiverse_ids:
+- 397888
+mtgo_id: 57120
+mtgo_foil_id: 57121
+tcgplayer_id: 98759
+cardmarket_id: 282900
+name: Faerie Mechanist
+lang: en
+released_at: '2015-05-22'
+uri: https://api.scryfall.com/cards/6693346f-3891-441f-a628-4dea4dd181b0
+scryfall_uri: https://scryfall.com/card/mm2/44/faerie-mechanist?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/6/6693346f-3891-441f-a628-4dea4dd181b0.jpg?1562263257
+  normal: https://cards.scryfall.io/normal/front/6/6/6693346f-3891-441f-a628-4dea4dd181b0.jpg?1562263257
+  large: https://cards.scryfall.io/large/front/6/6/6693346f-3891-441f-a628-4dea4dd181b0.jpg?1562263257
+  png: https://cards.scryfall.io/png/front/6/6/6693346f-3891-441f-a628-4dea4dd181b0.png?1562263257
+  art_crop: https://cards.scryfall.io/art_crop/front/6/6/6693346f-3891-441f-a628-4dea4dd181b0.jpg?1562263257
+  border_crop: https://cards.scryfall.io/border_crop/front/6/6/6693346f-3891-441f-a628-4dea4dd181b0.jpg?1562263257
+mana_cost: "{3}{U}"
+cmc: 4.0
+type_line: Artifact Creature — Faerie Artificer
+oracle_text: |-
+  Flying
+  When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+power: '2'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 28cac015-43df-4e88-90d0-95dcdd894834
+set: mm2
+set_name: Modern Masters 2015
+set_type: masters
+set_uri: https://api.scryfall.com/sets/28cac015-43df-4e88-90d0-95dcdd894834
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amm2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mm2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/6693346f-3891-441f-a628-4dea4dd181b0/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afcbe14c4-1b0d-486f-bb9c-0fed452668cb&unique=prints
+collector_number: '44'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Matt Cavotta
+artist_ids:
+- 2e6a0611-9411-4ba4-98e3-c0e18cbf9f83
+illustration_id: e7189917-a446-4d83-88ea-a804fa40ee94
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 13634
+penny_rank: 6159
+prices:
+  usd: '0.08'
+  usd_foil: '0.12'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.10'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397888
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Faerie+Mechanist&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Faerie+Mechanist&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Faerie+Mechanist
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/98759?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Faerie+Mechanist&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/57120?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,115 @@
+---
+object: card
+id: 4035157c-92ba-41b6-89c4-85a52578730b
+oracle_id: e1e96802-fd0c-41f1-aa21-3287d75a0e88
+multiverse_ids:
+- 397788
+mtgo_id: 57224
+mtgo_foil_id: 57225
+tcgplayer_id: 98844
+cardmarket_id: 282984
+name: Overwhelming Stampede
+lang: en
+released_at: '2015-05-22'
+uri: https://api.scryfall.com/cards/4035157c-92ba-41b6-89c4-85a52578730b
+scryfall_uri: https://scryfall.com/card/mm2/153/overwhelming-stampede?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/0/4035157c-92ba-41b6-89c4-85a52578730b.jpg?1562261168
+  normal: https://cards.scryfall.io/normal/front/4/0/4035157c-92ba-41b6-89c4-85a52578730b.jpg?1562261168
+  large: https://cards.scryfall.io/large/front/4/0/4035157c-92ba-41b6-89c4-85a52578730b.jpg?1562261168
+  png: https://cards.scryfall.io/png/front/4/0/4035157c-92ba-41b6-89c4-85a52578730b.png?1562261168
+  art_crop: https://cards.scryfall.io/art_crop/front/4/0/4035157c-92ba-41b6-89c4-85a52578730b.jpg?1562261168
+  border_crop: https://cards.scryfall.io/border_crop/front/4/0/4035157c-92ba-41b6-89c4-85a52578730b.jpg?1562261168
+mana_cost: "{3}{G}{G}"
+cmc: 5.0
+type_line: Sorcery
+oracle_text: Until end of turn, creatures you control gain trample and get +X/+X,
+  where X is the greatest power among creatures you control.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 28cac015-43df-4e88-90d0-95dcdd894834
+set: mm2
+set_name: Modern Masters 2015
+set_type: masters
+set_uri: https://api.scryfall.com/sets/28cac015-43df-4e88-90d0-95dcdd894834
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amm2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mm2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4035157c-92ba-41b6-89c4-85a52578730b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae1e96802-fd0c-41f1-aa21-3287d75a0e88&unique=prints
+collector_number: '153'
+digital: false
+rarity: rare
+flavor_text: |-
+  "I trust the instincts of any beast over the advice of any human who presumes to be an expert in the art of war."
+  —Rinshel, elf insurgent
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: 506fb908-94a8-4875-8ebd-edb28a7f15d8
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 531
+penny_rank: 2822
+prices:
+  usd: '3.92'
+  usd_foil: '6.60'
+  usd_etched: 
+  eur: '1.44'
+  eur_foil: '4.49'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397788
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Overwhelming+Stampede&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Overwhelming+Stampede&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Overwhelming+Stampede
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/98844?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Overwhelming+Stampede&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/57224?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

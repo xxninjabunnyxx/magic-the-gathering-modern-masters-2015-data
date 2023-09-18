@@ -1,0 +1,128 @@
+---
+object: card
+id: 528c4e3a-fdeb-4080-b2b7-82faa07a3383
+oracle_id: 9dbc3530-b278-4c8d-b2cc-a09dfac9d5e5
+multiverse_ids:
+- 397819
+mtgo_id: 57234
+mtgo_foil_id: 57235
+tcgplayer_id: 98796
+cardmarket_id: 282934
+name: Reassembling Skeleton
+lang: en
+released_at: '2015-05-22'
+uri: https://api.scryfall.com/cards/528c4e3a-fdeb-4080-b2b7-82faa07a3383
+scryfall_uri: https://scryfall.com/card/mm2/92/reassembling-skeleton?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/2/528c4e3a-fdeb-4080-b2b7-82faa07a3383.jpg?1562262192
+  normal: https://cards.scryfall.io/normal/front/5/2/528c4e3a-fdeb-4080-b2b7-82faa07a3383.jpg?1562262192
+  large: https://cards.scryfall.io/large/front/5/2/528c4e3a-fdeb-4080-b2b7-82faa07a3383.jpg?1562262192
+  png: https://cards.scryfall.io/png/front/5/2/528c4e3a-fdeb-4080-b2b7-82faa07a3383.png?1562262192
+  art_crop: https://cards.scryfall.io/art_crop/front/5/2/528c4e3a-fdeb-4080-b2b7-82faa07a3383.jpg?1562262192
+  border_crop: https://cards.scryfall.io/border_crop/front/5/2/528c4e3a-fdeb-4080-b2b7-82faa07a3383.jpg?1562262192
+mana_cost: "{1}{B}"
+cmc: 2.0
+type_line: Creature — Skeleton Warrior
+oracle_text: "{1}{B}: Return Reassembling Skeleton from your graveyard to the battlefield
+  tapped."
+power: '1'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+all_parts:
+- object: related_card
+  id: 5f52e2aa-59c2-4df2-92ec-15926d61b40f
+  component: combo_piece
+  name: Boneyard Aberration
+  type_line: Creature — Skeleton Dog
+  uri: https://api.scryfall.com/cards/5f52e2aa-59c2-4df2-92ec-15926d61b40f
+- object: related_card
+  id: 528c4e3a-fdeb-4080-b2b7-82faa07a3383
+  component: combo_piece
+  name: Reassembling Skeleton
+  type_line: Creature — Skeleton Warrior
+  uri: https://api.scryfall.com/cards/528c4e3a-fdeb-4080-b2b7-82faa07a3383
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 28cac015-43df-4e88-90d0-95dcdd894834
+set: mm2
+set_name: Modern Masters 2015
+set_type: masters
+set_uri: https://api.scryfall.com/sets/28cac015-43df-4e88-90d0-95dcdd894834
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amm2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mm2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/528c4e3a-fdeb-4080-b2b7-82faa07a3383/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9dbc3530-b278-4c8d-b2cc-a09dfac9d5e5&unique=prints
+collector_number: '92'
+digital: false
+rarity: uncommon
+flavor_text: Though you may see the same bones, you'll never see the same skeleton
+  twice.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Austin Hsu
+artist_ids:
+- c5e439d8-b3db-4c13-ae93-4e129e3b9478
+illustration_id: 360b0e81-f358-486f-990b-2cfb482f1d46
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 676
+penny_rank: 1990
+prices:
+  usd: '0.28'
+  usd_foil: '5.52'
+  usd_etched: 
+  eur: '0.08'
+  eur_foil: '0.98'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397819
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Reassembling+Skeleton&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Reassembling+Skeleton&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Reassembling+Skeleton
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/98796?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Reassembling+Skeleton&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/57234?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

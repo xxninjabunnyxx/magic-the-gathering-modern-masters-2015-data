@@ -1,0 +1,113 @@
+---
+object: card
+id: b78494f6-ef4e-4f31-b8e3-feab4bbcb279
+oracle_id: 593caa15-e1d1-477f-bbb4-124d7a7b81f3
+multiverse_ids:
+- 397681
+mtgo_id: 57238
+mtgo_foil_id: 57239
+tcgplayer_id: 98784
+cardmarket_id: 282884
+name: Mighty Leap
+lang: en
+released_at: '2015-05-22'
+uri: https://api.scryfall.com/cards/b78494f6-ef4e-4f31-b8e3-feab4bbcb279
+scryfall_uri: https://scryfall.com/card/mm2/24/mighty-leap?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/7/b78494f6-ef4e-4f31-b8e3-feab4bbcb279.jpg?1562266668
+  normal: https://cards.scryfall.io/normal/front/b/7/b78494f6-ef4e-4f31-b8e3-feab4bbcb279.jpg?1562266668
+  large: https://cards.scryfall.io/large/front/b/7/b78494f6-ef4e-4f31-b8e3-feab4bbcb279.jpg?1562266668
+  png: https://cards.scryfall.io/png/front/b/7/b78494f6-ef4e-4f31-b8e3-feab4bbcb279.png?1562266668
+  art_crop: https://cards.scryfall.io/art_crop/front/b/7/b78494f6-ef4e-4f31-b8e3-feab4bbcb279.jpg?1562266668
+  border_crop: https://cards.scryfall.io/border_crop/front/b/7/b78494f6-ef4e-4f31-b8e3-feab4bbcb279.jpg?1562266668
+mana_cost: "{1}{W}"
+cmc: 2.0
+type_line: Instant
+oracle_text: Target creature gets +2/+2 and gains flying until end of turn.
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 28cac015-43df-4e88-90d0-95dcdd894834
+set: mm2
+set_name: Modern Masters 2015
+set_type: masters
+set_uri: https://api.scryfall.com/sets/28cac015-43df-4e88-90d0-95dcdd894834
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amm2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mm2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/b78494f6-ef4e-4f31-b8e3-feab4bbcb279/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A593caa15-e1d1-477f-bbb4-124d7a7b81f3&unique=prints
+collector_number: '24'
+digital: false
+rarity: common
+flavor_text: |-
+  "The southern fortress taken by invaders? Heh, sure . . . when elephants fly."
+  —Brezard Skeinbow, captain of the guard
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: rk post
+artist_ids:
+- 81ae0f3f-1d88-4125-9aeb-b15b4c734c82
+illustration_id: 71876261-b46e-4dfb-ad45-b3db4be3c293
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15251
+penny_rank: 11333
+prices:
+  usd: '0.02'
+  usd_foil: '0.25'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.02'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397681
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Mighty+Leap&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Mighty+Leap&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Mighty+Leap
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/98784?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Mighty+Leap&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/57238?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

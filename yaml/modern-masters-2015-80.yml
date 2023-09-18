@@ -1,0 +1,129 @@
+---
+object: card
+id: 4a3894e7-5740-4455-8093-57579b1549a7
+oracle_id: b6821131-9ae1-4a3c-8235-90deae33c05f
+multiverse_ids:
+- 397833
+mtgo_id: 57192
+mtgo_foil_id: 57193
+tcgplayer_id: 98788
+cardmarket_id: 282834
+name: Dread Drone
+lang: en
+released_at: '2015-05-22'
+uri: https://api.scryfall.com/cards/4a3894e7-5740-4455-8093-57579b1549a7
+scryfall_uri: https://scryfall.com/card/mm2/80/dread-drone?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/a/4a3894e7-5740-4455-8093-57579b1549a7.jpg?1562261678
+  normal: https://cards.scryfall.io/normal/front/4/a/4a3894e7-5740-4455-8093-57579b1549a7.jpg?1562261678
+  large: https://cards.scryfall.io/large/front/4/a/4a3894e7-5740-4455-8093-57579b1549a7.jpg?1562261678
+  png: https://cards.scryfall.io/png/front/4/a/4a3894e7-5740-4455-8093-57579b1549a7.png?1562261678
+  art_crop: https://cards.scryfall.io/art_crop/front/4/a/4a3894e7-5740-4455-8093-57579b1549a7.jpg?1562261678
+  border_crop: https://cards.scryfall.io/border_crop/front/4/a/4a3894e7-5740-4455-8093-57579b1549a7.jpg?1562261678
+mana_cost: "{4}{B}"
+cmc: 5.0
+type_line: Creature — Eldrazi Drone
+oracle_text: 'When Dread Drone enters the battlefield, create two 0/1 colorless Eldrazi
+  Spawn creature tokens. They have "Sacrifice this creature: Add {C}."'
+power: '4'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords: []
+produced_mana:
+- C
+all_parts:
+- object: related_card
+  id: eeaae110-ef18-44fa-b8a8-c68bd439581e
+  component: token
+  name: Eldrazi Spawn
+  type_line: Token Creature — Eldrazi Spawn
+  uri: https://api.scryfall.com/cards/eeaae110-ef18-44fa-b8a8-c68bd439581e
+- object: related_card
+  id: 4a3894e7-5740-4455-8093-57579b1549a7
+  component: combo_piece
+  name: Dread Drone
+  type_line: Creature — Eldrazi Drone
+  uri: https://api.scryfall.com/cards/4a3894e7-5740-4455-8093-57579b1549a7
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 28cac015-43df-4e88-90d0-95dcdd894834
+set: mm2
+set_name: Modern Masters 2015
+set_type: masters
+set_uri: https://api.scryfall.com/sets/28cac015-43df-4e88-90d0-95dcdd894834
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amm2&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mm2?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/4a3894e7-5740-4455-8093-57579b1549a7/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab6821131-9ae1-4a3c-8235-90deae33c05f&unique=prints
+collector_number: '80'
+digital: false
+rarity: common
+flavor_text: Each Eldrazi ancient spawned a lineage of horrors in unfathomable shapes.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Raymond Swanland
+artist_ids:
+- e956bacc-077d-4c12-b6bc-ba798b718af9
+illustration_id: a6ffe13e-7fc7-49d2-8edf-12252003499f
+border_color: black
+frame: '2015'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 14974
+penny_rank: 9426
+prices:
+  usd: '0.07'
+  usd_foil: '0.19'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.10'
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=397833
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Dread+Drone&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Dread+Drone&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Dread+Drone
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/98788?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Dread+Drone&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/57192?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
